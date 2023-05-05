@@ -10,10 +10,3 @@ async def start_command(message: types.Message):
         f"By default you have Shikoku Metan's voice, you can change it by /character comamnd\n\n"
         f"What's VOICEVOX or some other stuff you can check /info"
     )
-
-
-@router.message(Command('info'))
-async def help_command(message: types.Message):
-    await message.answer(
-    )
-
