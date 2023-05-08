@@ -10,7 +10,7 @@ VoiceVOX used to synthesize voice.
 - Select character's tone
 - Synthesize voice
 
-**VoiceVOX engine (run.exe) should be opened to allow bot synthesize voice.**
+**[VoiceVOX engine](https://github.com/VOICEVOX/voicevox_engine) (run.exe) should be opened to allow bot synthesize voice.**
 
 
 
