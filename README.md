@@ -1,5 +1,4 @@
-# TTS-TelegramBOT
-
+# VVchat
 ### Short description:
 Text to Speech (with *any -> Japanese translation*) bot, created by using aiogram 3.x.
 VoiceVOX used to synthesize voice.
