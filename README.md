@@ -1,5 +1,6 @@
 ### Summary:
 Telegram Bot made with [aiogram 3.x](https://aiogram.dev/)
+
 With ChatGPT and VoiceVOX API bot can synthesize your own text or give you A.I generated answers of VoiceVOX's characters.
 
 ### Things BOT can do:
