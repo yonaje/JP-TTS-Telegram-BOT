@@ -1,7 +1,6 @@
-# VVchat
-### Short description:
-Text to Speech (with *any -> Japanese translation*) bot, created by using aiogram 3.x.
-VoiceVOX used to synthesize voice.
+### Summary:
+Telegram Bot made with aiogram 3.x
+With ChatGPT and VoiceVOX API bot can synthesize your own text or give you A.I generated answers of VoiceVOX's characters.
 
 ### Things BOT can do:
 
